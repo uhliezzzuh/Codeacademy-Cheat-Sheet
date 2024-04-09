@@ -2,6 +2,5 @@
 
 My first solo project for Codeacademy
 
-View the Live Version HERE https://uhliezzzuh.github.io/Codeacademy-Cheat-Sheet
-
+View the Live Version HERE https://uhliezzzuh.netlify.app/
 
